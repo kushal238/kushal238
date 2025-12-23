@@ -16,7 +16,7 @@ class KushalAgarwal:
     def __init__(self):
         self.location = "Champaign, IL 🌽"
         self.education = "MS Computer Science @ UIUC"
-        self.current_focus = "Building innovative solutions"
+        self.interests = ["AI/ML", "Full Stack Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
