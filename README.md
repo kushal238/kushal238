@@ -4,7 +4,6 @@
 
 <p align="center">
   <em>MS in Computer Science @ University of Illinois Urbana-Champaign</em><br>
-  <em>Building solutions at the intersection of AI and Software Engineering</em>
 </p>
 
 ---
