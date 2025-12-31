@@ -60,10 +60,6 @@ me.say_hi()
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushal238&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal238&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook&langs_count=8"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal238&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
@@ -85,10 +81,6 @@ me.say_hi()
 
 <a href="https://github.com/kushal238/screenshot-to-answer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushal238&repo=screenshot-to-answer&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/Himnish/HackIllinois22-UrbanHawx-FaceRec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himnish&repo=HackIllinois22-UrbanHawx-FaceRec&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
