@@ -15,8 +15,6 @@ me.say_hi()
 ```
 
 - I'm currently working on **AI-powered applications and full-stack projects**
-- I'm exploring **Large Language Models, Computer Vision, and Modern Web Technologies**
-- I love experimenting with **new technologies and solving complex (and simple) problems**
 - Reach me at: [LinkedIn](https://linkedin.com/in/kushalagarwal7)
 
 ---
