@@ -68,13 +68,3 @@ On the side, I build tools that make mine and my friends' life easier. A recent 
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <em>⭐️ From <a href="https://github.com/kushal238">kushal238</a> - Open to collaborations and opportunities!</em>
-</p>
-
