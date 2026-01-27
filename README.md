@@ -8,14 +8,11 @@ class KushalAgarwal:
         self.interests = ["AI/ML", "Full Stack Development"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+        print("Check out my repos & shoot me a message if you find something interesting!")
 
 me = KushalAgarwal()
 me.say_hi()
 ```
-
-- I'm currently working on **AI-powered applications and full-stack projects**
-- Reach me at: [LinkedIn](https://linkedin.com/in/kushalagarwal7)
 
 ---
 
