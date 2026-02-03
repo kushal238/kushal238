@@ -4,7 +4,7 @@
 class KushalAgarwal:
     def __init__(self):
         self.location = "Champaign, IL 🌽"
-        self.education = "Maasters in Computer Science @ UIUC"
+        self.education = "Masters in Computer Science @ UIUC"
         self.interests = ["AI/ML", "Full Stack Development"]
         
     def say_hi(self):
