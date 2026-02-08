@@ -1,4 +1,4 @@
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class KushalAgarwal:
@@ -28,7 +28,7 @@ On the side, I build tools that make mine and my friends' life easier. A recent 
 ---
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/kushalagarwal7">
